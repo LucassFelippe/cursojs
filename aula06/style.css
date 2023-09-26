@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+
+body{
+    background-color: rgb(50, 11, 223);
+}
+h1{
+    color: yellow;
+}
+p{
+   color: gold;
+   font-size: 2em;
+}
