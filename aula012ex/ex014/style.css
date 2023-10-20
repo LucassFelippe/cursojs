@@ -1,0 +1,40 @@
+@charset 'UTF-8';
+body{
+   
+}
+
+header{
+    color: white;
+    text-align: center;
+
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.555);
+}
+
+section #foto img{
+    display: flex;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin: auto;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    margin: 10px;
+}
+
+section #msg{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
